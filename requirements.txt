@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+easydict
+numpy
+pandas
+facenet_pytorch
+torch
+tqdm
+torchvision
+opencv-python
+Pillow
+tensorboardX
