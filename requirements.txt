@@ -7,6 +7,6 @@ facenet_pytorch
 torch
 tqdm
 torchvision
-opencv-python
+opencv-python==4.5.3.56
 Pillow
 tensorboardX
